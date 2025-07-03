@@ -1,0 +1,13 @@
+/* src/components/CustomNode.css */
+.custom-node {
+  padding: 10px;
+  background: #fff;
+  border: 2px solid #1a192b;
+  border-radius: 5px;
+  min-width: 100px;
+  text-align: center;
+}
+
+.custom-node .react-flow__handle {
+  background: #555;
+}
